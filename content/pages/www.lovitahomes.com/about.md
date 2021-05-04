@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: About Lovita
 seo:
   title: ''
   description: ''
